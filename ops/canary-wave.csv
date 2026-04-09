@@ -1,0 +1,5 @@
+service_key,rollout_ring,status
+profile-store,ring-2,active
+legacy-reporter,ring-3,hold
+edge-router,ring-1,active
+invoice-api,ring-2,active
