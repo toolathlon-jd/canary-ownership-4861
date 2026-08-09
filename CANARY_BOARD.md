@@ -5,8 +5,9 @@ This board is reviewed during each controlled rollout.
 <!-- BEGIN MANAGED CANARY OWNERSHIP -->
 | Service | Responsible Team | Rollout Ring |
 | --- | --- | --- |
-| sandbox-proxy | Experimental Edge | ring-9 |
-| profile-store | Former Identity Team | ring-4 |
+| edge-router | Traffic Platform | ring-1 |
+| invoice-api | Revenue Systems | ring-2 |
+| profile-store | Identity Data | ring-2 |
 <!-- END MANAGED CANARY OWNERSHIP -->
 
 ## Escalation Notes
